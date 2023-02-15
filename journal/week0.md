@@ -7,3 +7,4 @@ I also created a billing alert and budget on my aws account
 challenge
 I had a problem when I wanted to open the CloudShell interface, the error meesage I got is this: *Unable to start the environment. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell. System error: Environment was in state: CREATION_FAILED. Expected environment to be in state: RUNNING. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell.*
 which I have not resolved till now
+I 
